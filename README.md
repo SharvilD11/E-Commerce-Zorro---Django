@@ -33,3 +33,6 @@ templates : This contains all the html files that I coded. I used some amount of
 # I have added products, orders and order-updates in the django admin interface which you can see by logging in
    # username - admin
    # password - admin
+   
+   THERE ARE SOME BUGS IN THE PROJECT WHICH I DIDN'T FIX OR RATHER DIDN"T HAVE TIME TO FIX LIKE THE ADD TO CART BUG
+   For now I can add products from only one of the web pages at a time while ordering. So, if someone is reading this and is gonna test my project please use the add      to cart function on deals page since it has the most number of products on my website. Also, you can see the cart in checkout page
