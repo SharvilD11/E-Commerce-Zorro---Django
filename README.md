@@ -14,18 +14,18 @@ static : This folder contains all the images that I have used in my Website
 templates : This contains all the html files that I coded. I used some amount of javascript too but didn't separate the javascript files so sorry for that.
 
 # individual template files:
-1. appplepro.html : contains product information
-2. base.html : base file of my project which contains code needed on every web page of my website. 
-checkout.html : checkout page
-children.html : contains products
-deals.html :  contains products having offers on them
-electronics.html : contains electronic products like mobiles,laptops
-email.html : 
-fashion.html : contains clothe=ing products
-iPhone13.html : contains product infromation
-image.html : 
-index.html : index page of my website. I have added signin,signup,tracker functionalities and many more in the project.
-men.html : contains products
-sonybravia.html : contains product infromation
-tracker.html : Tracker which can give updates about order whenever someone enters their order  id and email
-women.html : contains products
+1.  appplepro.html : contains product information
+2.  base.html : base file of my project which contains code needed on every web page of my website. 
+3.  checkout.html : checkout page
+4.  children.html : contains products
+5.  deals.html :  contains products having offers on them
+6.  electronics.html : contains electronic products like mobiles,laptops
+7.  email.html : 
+8.  fashion.html : contains clothe=ing products
+9.  iPhone13.html : contains product infromation
+10.  image.html : 
+11.  index.html : index page of my website. I have added signin,signup,tracker functionalities and many more in the project.
+12.  men.html : contains products
+13.  sonybravia.html : contains product infromation
+14.  tracker.html : Tracker which can give updates about order whenever someone enters their order  id and email
+15.  women.html : contains products
