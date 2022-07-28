@@ -23,9 +23,13 @@ templates : This contains all the html files that I coded. I used some amount of
 7.  email.html : 
 8.  fashion.html : contains clothe=ing products
 9.  iPhone13.html : contains product infromation
-10.  image.html : 
+10.  image.html : contains some trial codes that I have written 
 11.  index.html : index page of my website. I have added signin,signup,tracker functionalities and many more in the project.
 12.  men.html : contains products
 13.  sonybravia.html : contains product infromation
 14.  tracker.html : Tracker which can give updates about order whenever someone enters their order  id and email
 15.  women.html : contains products
+
+# I have added products, orders and order-updates in the django admin interface which you can see by logging in
+   # username - admin
+   # password - admin
