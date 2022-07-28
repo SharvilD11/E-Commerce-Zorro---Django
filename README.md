@@ -14,8 +14,8 @@ static : This folder contains all the images that I have used in my Website
 templates : This contains all the html files that I coded. I used some amount of javascript too but didn't separate the javascript files so sorry for that.
 
 # individual template files:
-appplepro.html : contains product information
-base.html : base file of my project which contains code needed on every web page of my website. 
+1. appplepro.html : contains product information
+2. base.html : base file of my project which contains code needed on every web page of my website. 
 checkout.html : checkout page
 children.html : contains products
 deals.html :  contains products having offers on them
